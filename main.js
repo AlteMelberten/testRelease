@@ -1,9 +1,11 @@
-module.exports = class TestPlugin {
+const { Plugin } = require("obsidian");
+
+module.exports = class TestPlugin extends Plugin {
   onload() {
-    console.log("Test Plugin geladen!");
+    console.log("Test-Plugin erfolgreich geladen!");
   }
 
   onunload() {
-    console.log("Test Plugin entladen!");
+    console.log("Test-Plugin wurde entladen.");
   }
 };
