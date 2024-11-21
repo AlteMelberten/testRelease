@@ -1,7 +1,7 @@
 {
   "id": "test-plugin",
   "name": "Test Plugin",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Ein Testplugin für Obsidian-Updates",
   "author": "spindi",
