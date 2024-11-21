@@ -1,0 +1,11 @@
+{
+  "id": "test-plugin",
+  "name": "Test Plugin",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Ein Testplugin für Obsidian-Updates",
+  "author": "spindi",
+  "authorUrl": "https://github.com/AlteMelberten",
+  "isDesktopOnly": false,
+  "updateUrl": "https://raw.githubusercontent.com/AlteMelberten/testRelease/main/versions.json"
+}
